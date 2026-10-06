@@ -1,0 +1,84 @@
+# =========================================
+# Unity
+# =========================================
+
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+[Rr]ecordings/
+
+# Asset Store Tools
+# Se conservan todos los archivos de Assets
+
+# =========================================
+# IDEs / Editores
+# =========================================
+
+# Visual Studio
+.vs/
+*.csproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# JetBrains Rider
+.idea/
+*.sln.iml
+
+# VS Code
+.vscode/
+
+# =========================================
+# Unity-generated files
+# =========================================
+
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+
+sysinfo.txt
+
+# =========================================
+# Builds
+# =========================================
+
+*.apk
+*.aab
+*.unitypackage
+
+# =========================================
+# OS
+# =========================================
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# macOS
+.DS_Store
+
+# =========================================
+# Crash / temporary files
+# =========================================
+
+crashlytics-build.properties
+*.tmp
+*.bak
+*.swp
+.plastic/
+
+# Solucion generada por Unity
+*.slnx
